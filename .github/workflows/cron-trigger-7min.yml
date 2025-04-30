@@ -1,4 +1,4 @@
-name: Trigger save-hot-post every 10 minutes
+name: Trigger save-hot-post every 7 minutes
 
 on:
   schedule:
